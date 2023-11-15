@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1700040183 source:d:\projects\composition circle\main.cpp
+	<graphics.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<conio.h>
+	<math.h>
+	<dos.h>
+	<iostream>
+	<windows.h>
+	<limits.h>
+	<sstream>
+
