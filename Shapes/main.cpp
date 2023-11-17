@@ -127,7 +127,7 @@ int main()
         cin >> choice;
 
 
-        // Create and add the selected shape to the vector
+        
         switch (choice) {
             case 1:
                 shapes[i]=new Line(200,200,300,400);
